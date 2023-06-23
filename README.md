@@ -1,1 +1,7 @@
 # Forensics
+
+# TYPE OF DEVICES
+DESKTOP
+MOBILE DEVICES
+GPS
+
